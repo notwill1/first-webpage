@@ -6,3 +6,8 @@ first try at template
 git add .
 git commit -m "message to commit"
 git push
+
+# Milestones
+anopther page
+photo gallery
+about me page
