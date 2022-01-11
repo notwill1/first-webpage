@@ -12,3 +12,8 @@ anopther page
 photo gallery
 about me page
 jerry
+
+add contact page
+link to contact page
+contact form
+netlify.com form actions
